@@ -1,2 +1,2 @@
-# Spb-s-Snake-Bot
+# Superbia_zyb's Snake Bot
 基于Botzone平台 Snake游戏 AIBot
